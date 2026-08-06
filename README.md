@@ -41,7 +41,8 @@ Documenting privilege escalation walkthroughs on Medium — one featured in **In
 ### 📌 Featured Projects
 - **[Tcp-Chat-App](https://github.com/0xredcrew1/Tcp-Chat-App)** — Python socket-based chat app exploring TCP networking fundamentals
 - **[Weather-Suite](https://github.com/0xredcrew1/Weather-Suite)** — Python weather data tool
-- *(add: CTF-writeups, vuln scanner, or packet sniffer repo here)*
+
+
 
 ---
 
