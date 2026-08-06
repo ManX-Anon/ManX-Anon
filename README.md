@@ -17,7 +17,7 @@
 Python · C/C++ · Java · Linux · Wireshark · Burp Suite
 
 ### 🚩 Platforms
-[TryHackMe](https://tryhackme.com/p/YOUR_USERNAME) · [HackTheBox](https://app.hackthebox.com/profile/YOUR_ID) · [Medium](https://medium.com/@vivek0x)
+[TryHackMe](https://tryhackme.com/p/vivek18) · [HackTheBox](https://profile.hackthebox.com/profile/019ce5a6-a723-72f3-8ef6-8bedf8608f3c) · [Medium](https://medium.com/@vivek0x)
 
 ### 🎖️ Certifications
 - **BreachLab Ghost Operative** — Completed the full Ghost track (22 levels + graduation gate): shell forensics, SUID/privilege escalation, network recon, encoding pivots, SSH/bashrc bypass, git forensics. [Verify](https://breachlab.org/u/goat18/certificate/ghost)
