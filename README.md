@@ -32,7 +32,7 @@ Python · C/C++ · Java · Linux · Wireshark · Burp Suite
 Visionary · Detective · Mystery Mastermind · Adventurer · Hunter · Conqueror · Explorer · Pro · Legend · Lord of Hackv
 
 ### ✍️ CTF Writeups (BreachLab "Phantom" Series)
-Documenting privilege escalation walkthroughs on Medium — one featured in **InfoSec Write-ups**, a leading security publication:
+Documenting privilege escalation walkthroughs on Medium — Three featured in **InfoSec Write-ups**, a leading security publication:
 - [Mission: BreachLab's Phantom 7 — Local Authority](https://medium.com/@vivek0x)
 - [Phantom Level 6: Scheduled Sins — Cron Privilege Escalation](https://medium.com/@vivek0x)
 - [Phantom 5: File Authority — Group Membership to Root (Linux Privesc)](https://medium.com/@vivek0x)
