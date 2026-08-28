@@ -46,4 +46,4 @@ Documenting privilege escalation walkthroughs on Medium — Three featured in **
 
 ---
 
-📫 Reach me: [LinkedIn](https://www.linkedin.com/in/vivek-yadav-b05244292/) · [Medium](https://medium.com/@vivek0x) · nightshadeprotocol@proton.me [Website](https://vivek0x.netlify.app)
+📫 Reach me: [LinkedIn](https://www.linkedin.com/in/vivek-yadav-b05244292/) · [Medium](https://medium.com/@vivek0x) · nightshadeprotocol@proton.me · [Website](https://vivek0x.netlify.app)
