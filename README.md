@@ -40,11 +40,12 @@ Documenting privilege escalation walkthroughs on Medium — Three featured in **
 
 ### 📌 Featured Projects
 - **[Tcp-Chat-App](https://github.com/0xredcrew1/Tcp-Chat-App)** — Python socket-based chat app exploring TCP networking fundamentals
-- **[Weather-Suite](https://github.com/0xredcrew1/Weather-Suite)** — Python weather data tool
-- **[Portfolio Website](https://github.com/ManX-Anon/My_Portfolio)** — All About Me
+- **[Weather-Suite](https://weather-app-0u5m.onrender.com/)** — Python weather data tool
+- **[Portfolio Website](https://vivek0x.netlify.app/)** — All About Me
 - **[msh](https://github.com/ManX-Anon/Linux-Shell-From-Scratch)** — Linux Shell from Scratch (In Progress)
-- **[Signal](https://github.com/ManX-Anon/phishing-awareness-training)** — A Phishing Awareness Website
+- **[Signal](https://signalpap.netlify.app/)** — A Phishing Awareness Website
 - **[NetWatch](https://github.com/ManX-Anon/network-sniffer)** — A Basic Network Sniffer (Command Line) Tool
+- **[Loksaar-Daily](https://loksaar-daily.netlify.app/)** — A Real-Time News Website
 
 
 ---
