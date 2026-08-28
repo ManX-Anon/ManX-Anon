@@ -31,7 +31,7 @@ Python · C/C++ · Java · Linux · Wireshark · Burp Suite
 ### 🏆 Hackviser Badges
 Visionary · Detective · Mystery Mastermind · Adventurer · Hunter · Conqueror · Explorer · Pro · Legend · Lord of Hackv
 
-### ✍️ CTF Writeups (BreachLab "Phantom" Series)
+### ✍️ CTF Writeups (BreachLab "Phantom" Series And PortSwigger Web Security Academy)
 Documenting privilege escalation walkthroughs on Medium — Three featured in **InfoSec Write-ups**, a leading security publication:
 - [Mission: BreachLab's Phantom 7 — Local Authority](https://medium.com/@vivek0x)
 - [Phantom Level 6: Scheduled Sins — Cron Privilege Escalation](https://medium.com/@vivek0x)
@@ -46,4 +46,4 @@ Documenting privilege escalation walkthroughs on Medium — Three featured in **
 
 ---
 
-📫 Reach me: [LinkedIn](https://www.linkedin.com/in/vivek-yadav-b05244292/) · [Medium](https://medium.com/@vivek0x) · blackadam7042@gmail.com
+📫 Reach me: [LinkedIn](https://www.linkedin.com/in/vivek-yadav-b05244292/) · [Medium](https://medium.com/@vivek0x) · nightshadeprotocol@proton.me [Website](https://vivek0x.netlify.app)
