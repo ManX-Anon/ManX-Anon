@@ -39,7 +39,7 @@ Documenting privilege escalation walkthroughs on Medium — Three featured in **
 - [→ See all writeups on Medium](https://medium.com/@vivek0x)
 
 ### 📌 Featured Projects
-- **[Tcp-Chat-App](https://github.com/0xredcrew1/Tcp-Chat-App)** — Python socket-based chat app exploring TCP networking fundamentals
+- **[Tcp-Chat-App](https://github.com/0xredcrew1/Tcp-Chat-App)** — Python socket-based chat app exploring TCP networking fundamentals (Command Line Tool)
 - **[Weather-Suite](https://weather-app-0u5m.onrender.com/)** — Python weather data tool
 - **[Portfolio Website](https://vivek0x.netlify.app/)** — All About Me
 - **[msh](https://github.com/ManX-Anon/Linux-Shell-From-Scratch)** — Linux Shell from Scratch (In Progress)
