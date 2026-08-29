@@ -4,7 +4,7 @@
 
 🔐 Currently sharpening skills on **TryHackMe** and **Hack The Box**
 
-🛠️ Also building projects in networking, automation, and AI tooling
+🛠️ Also building projects in networking, automation, and AI tooling.
 
 ---
 
