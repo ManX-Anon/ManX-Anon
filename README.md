@@ -1,6 +1,6 @@
 # Hi, I'm Vivek Yadav 👋
 
-🎓 Cybersecurity Student — exploring both **offensive** (pentesting, CTFs) and **defensive** (blue team, SOC fundamentals) security
+🎓 Cybersecurity Student — exploring both **offensive** (pentesting, CTFs) , **defensive** (blue team, SOC fundamentals) security and **C++ Programming**
 
 🔐 Currently sharpening skills on **TryHackMe** and **Hack The Box**
 
